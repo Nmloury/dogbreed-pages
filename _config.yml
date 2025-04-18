@@ -1,0 +1,32 @@
+title: Dog Breed Classifier
+description: A deep learning application that classifies dog breeds from images
+baseurl: "/dogbreed-pages"
+url: "https://nmloury.github.io"
+github_username: nmloury
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/
+  - .github/
+  - .gitignore
+  - app.py
+  - fine_tune.py
+  - verify_env.py
+  - requirements.txt
+  - README.md
+  - LICENSE
