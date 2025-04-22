@@ -4,8 +4,6 @@ title: Dog Breed Classifier
 nav_order: 1
 ---
 
-# Dog Breed Classifier
-
 A deep learning application that classifies dog breeds from images.
 
 ## About This Project
