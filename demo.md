@@ -8,9 +8,11 @@ nav_order: 2
 
 Below is a demo of the dog breed classifier. You can upload an image of a dog, and the model will predict its breed.
 
+<!-- markdownlint-disable MD033 -->
 <div class="demo-container">
   <iframe src="https://nmloury-dog-breed-classifier.hf.space" width="100%" height="700" frameborder="0"></iframe>
 </div>
+<!-- markdownlint-enable MD033 -->
 
 ## How to Use
 
